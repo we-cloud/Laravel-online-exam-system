@@ -9,3 +9,7 @@ user username - test@gmail.com
 create database 'exam'
 
 import exam.sql file to database
+
+Add node_models
+
+Add vender folder
