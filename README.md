@@ -12,4 +12,4 @@ import exam.sql file to database
 
 Add node_models
 
-Add vender folder
+unzip vender.zip
